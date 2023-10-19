@@ -1,0 +1,1 @@
+<a href="intent://inappbrowser?version=10&url=http%3A%2F%2Fnews.naver.com#Intent;scheme=naversearchapp;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.nhn.android.search;end"> Android </a>
